@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsd:schema xmlns="http://dtflys.com/schema/forest"
+<xsd:schema xmlns="http://www.dtflys.com/schema/forest"
             xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-            targetNamespace="http://dtflys.com/schema/forest"
+            targetNamespace="http://www.dtflys.com/schema/forest"
             elementFormDefault="qualified" attributeFormDefault="unqualified">
 
     <xsd:annotation>
